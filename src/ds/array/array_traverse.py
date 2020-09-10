@@ -1,6 +1,5 @@
-def traverse():
-    print("Hi")
+from array import *
+a1 = array('i' ,[12,23,56,89,95])
 
-
-if __name__ == "__main__":
-    traverse()
+for x in a1:
+    print(x)
